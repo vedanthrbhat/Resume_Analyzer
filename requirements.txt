@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+ddgs
+
+streamlit
+python-dotenv
+
+duckduckgo-search
+wikipedia
+pypdf
